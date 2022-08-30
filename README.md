@@ -1,5 +1,5 @@
 # Image_Processing_Verilog
-Parameterized Verilog code for Image Sharpening (Laplacian Filter) and Image smoothening (Average Filter) on 128x128 image
+## Parameterized Verilog code for Image Sharpening (Laplacian Filter) and Image smoothening (Average Filter) on 128x128 image
 
 
 This was done as a part of the following assignment ---->
@@ -17,3 +17,11 @@ Both Image Smoothening and Image sharpening is a convolution operation in the im
 
 The addition is of sharpened and Enhanced Image is to be performed.
 Finally, the image pixels have to be normalized between 0 to 255 to get the final enhanced image.
+
+
+### The Original Image
+![alt text](https://github.com/shubham-sai47/Image_Processing_Verilog/blob/main/Image_processing_verilog/image_sharpen_verilog/cameraman512.jpg?raw=true)
+### The Sharpened Image
+![alt text](https://github.com/shubham-sai47/Image_Processing_Verilog/blob/main/Image_processing_verilog/image_sharpen_verilog/sharpen_image.png?raw=true)
+### The Smoothened Image
+![alt text](https://github.com/shubham-sai47/Image_Processing_Verilog/blob/main/Image_processing_verilog/image_smooth_verilog/main_smoothen.png?raw=true)
