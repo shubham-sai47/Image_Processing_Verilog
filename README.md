@@ -13,6 +13,7 @@ Please note input/output cannot be an array. So Input in this case will be a vec
 
 Both Image Smoothening and Image sharpening is a convolution operation in the image as shown below.
 
+![alt-text](https://github.com/shubham-sai47/Image_Processing_Verilog/blob/main/Image_processing_verilog/2D_Convolution_Animation.gif?raw=true)
 
 The addition is of sharpened and Enhanced Image is to be performed.
 Finally, the image pixels have to be normalized between 0 to 255 to get the final enhanced image.
