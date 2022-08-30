@@ -5,7 +5,7 @@ Parameterized Verilog code for Image Sharpening (Laplacian Filter) and Image smo
 This was done as a part of the following assignment ---->
 
 Q1
-Design an Image Enhancement hardware in Verilog. The Block Diagram is shown below.
+Design an Image Enhancement hardware in Verilog. 
 
 You have to design and test all the individual block
 The image size is 128 X 128. Each pixel of the image is of 8 bits.
