@@ -1,6 +1,7 @@
 # Image_Processing_Verilog
 ## Parameterized Verilog code for Image Sharpening (Laplacian Filter) and Image smoothening (Average Filter) on 128x128 image
 
+Codes are synthesizable and implementable. Testbench files have also been attached.
 
 This was done as a part of the following assignment ---->
 
